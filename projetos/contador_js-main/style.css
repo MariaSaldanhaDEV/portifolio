@@ -1,0 +1,32 @@
+img{
+    width: 100px;
+}
+
+body {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    text-align: center;
+}
+
+h1 {
+    font-size: 65px;
+    font-family: Anton, arial sans-serif;
+    color: #da1e85;
+}
+span {
+    font-size: 75px;
+}
+
+button {
+    background-color: #94bbe9;
+    font-size: 25px; 
+    justify-items: center;
+    border-radius: 100px;
+    border-color: black;  
+}
+
+
+
+
+
+

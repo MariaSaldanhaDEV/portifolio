@@ -1,0 +1,20 @@
+{
+    "nome" : " portfólio " ,
+    "versão" : " 1.0.0 " ,
+    "descrição" : " " ,
+    "main" : " index.js " ,
+    "roteiros" : {
+      "test" : " echo \" Erro: nenhum teste especificado \" && exit 1 "
+    },
+    "repositório" : {
+      "tipo" : " git " ,
+      "url" : " git+https://github.com/TI-fernando/Projeto-Portf-lio.git "
+    },
+    "palavras-chave" : [],
+    "autor" : " " ,
+    "licença" : " ISC " ,
+    "bugs" : {
+      "url" : " https://github.com/TI-fernando/Projeto-Portf-lio/issues "
+    },
+    "homepage" : " https://github.com/TI-fernando/Projeto-Portf-lio#readme "
+  }
